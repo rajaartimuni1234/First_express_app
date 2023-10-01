@@ -1,0 +1,18 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "My first express node class",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "aarti Kumari",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
